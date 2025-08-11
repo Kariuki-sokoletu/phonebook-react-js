@@ -1,0 +1,29 @@
+.App {
+  text-align: center;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  text-align: center;
+  align-items: center;
+  height: 80px;
+  max-width: 1000px;
+  margin: auto;
+  border-bottom: 1px solid black;
+  
+}
+.header h1{
+  text-align: center;
+  color: purple;
+}
+
+.Hlogo  {
+  display: flex;
+  max-width: 70px;
+
+}
+.Flogo {
+  display: flex;
+  max-width: 70px;
+}
